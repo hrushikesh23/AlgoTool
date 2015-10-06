@@ -18,8 +18,9 @@ public class MyQuickSortAlgo {
 		for (i = 0; i < n; i++)
 			arr[i] = scan.nextInt();
 		MyQuickSortAlgo algo = new MyQuickSortAlgo();
-		System.out.println("This is incomplete code::");
-		System.out.println("Need to complete it ASAP::");
+		System.out.println("THIS IS INCOMPLETE CODE::");
+		System.out.println("NEED TO COMPLETE IT ASAP::");
+		System.out.println("-----------------------------");
 		
 	}
 
